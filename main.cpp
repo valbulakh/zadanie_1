@@ -3,7 +3,6 @@
 int main()
 {
     //fcfvybuhnjnh
-    //lnbhjb
     Printing::Printer printer;
 
     printer.print(" Hello Word! ");
@@ -12,6 +11,7 @@ int main()
     Printing::Printer* ptrToprinter = nullptr;
 
     ptrToprinter = new Printing::Printer();
+    //vtgvbuhbnjk
 
     std::cerr << " принтеров создано: " << Printing::Printer::getCountCreatedPrinters() << std::endl;
 
